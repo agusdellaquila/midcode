@@ -4,7 +4,7 @@
 
 <h1 align="center">midcode</h1>
 
-<p align="center"><b>Not no-code. Not just code.</b><br />The missing middle: a visual editor for Next.js sites, for macOS.</p>
+<p align="center"><b>The mid between code and no-code.</b><br />A visual editor for your sites, for macOS.</p>
 
 <p align="center"><a href="https://midcode.app">midcode.app</a> · <a href="https://midcode.app/changelog">Changelog</a></p>
 
