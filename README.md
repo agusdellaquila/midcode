@@ -10,11 +10,11 @@
 
 ---
 
-midcode opens your Next.js + Tailwind project on a live canvas. Click anything to see where it lives in the code, refine it by hand, and every change lands in your source files as a clean, minimal diff.
+midcode opens your project (Next.js, Vite, React Router, Astro, SvelteKit…) on a live canvas. Click anything to see where it lives in the code, refine it by hand, and every change lands in your source files as a clean, minimal diff.
 
 ## Download
 
-midcode isn't out yet. When it is, the latest version will be under [Releases](../../releases/latest), and on [midcode.app](https://midcode.app).
+Get the latest version on [midcode.app](https://midcode.app) or under [Releases](../../releases/latest): the `-arm64.dmg` for Apple silicon, the `-x64.dmg` for Intel. Free for 3 days, then one payment.
 
 Requires macOS on Apple silicon or Intel. The app updates itself.
 
